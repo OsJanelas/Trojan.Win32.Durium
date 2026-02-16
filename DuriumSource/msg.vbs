@@ -1,0 +1,6 @@
+x=msgbox("L e a v e  m e  a l o n e", 0+16, "N U L L")
+x=msgbox("S a v e  U S", 0+32, "F R E E D O M")
+x=msgbox("Y O U R  E N D  I S  N E A R", 0+48, "V O I D")
+x=msgbox("Ḧ̴̢̢̘̜̤̖̪͔͙̦͈́́͌̈́̿́͜Ë̶̛̠̝̜͗̌̽̀͛̏͌͆͛̚͝Ḻ̸̫̗̙̱̞̼̻̯͎̉͛̏̈́̍́̌̐̕P̸̧̡͚̤̙̖͇̖͐̓̑̉̓̔̄͊̑̓̓ ̴̱̞̞̖͊͐̏̂̀̌̍́̉͐̒̚͝͠Ȕ̶̪̣͖̖̫̖̱͕͚̻͓̯̻̭̈̽̌̉̓̕͠S̴̨̛̰̭̲̦̪̦̰͙͌̅̏̈́͂͋̈́̑̆̓̎̈́", 0+16, "C R A S H")
+x=msgbox("T H E  E N D  I S  N E A R", 0+48, "T H E  E N D  I S  N E A R")
+x=msgbox("S A V E  U S", 0+32, "G O D")
